@@ -5,5 +5,4 @@ Tam - To redo/rework
 
 Scraping doesn't have to be hard, let Tam do it.  
 https://gamesdb.launchbox-app.com/
-  
 ![screenshot](screenshots/PXL_20260111_013345044.webp)
