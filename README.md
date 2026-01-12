@@ -26,7 +26,7 @@ Run "pip install Pillow" on a Command Prompt after installing Python.
 
 ## Download
 You can use it anywhere that supports Python, including Windows.  
-[Release](https://github.com/ninetyralph/TamScraper/releases/download/release/TamScraper.py)
+[Download](https://github.com/ninetyralph/TamScraper/releases/download/release/TamScraper.py)
 
 ## How to Use
 1. Install [LaunchBox](https://www.launchbox-app.com/).  
