@@ -1,22 +1,24 @@
 # Tam Scraper
+![showcase](images/showcase.webp)
+
 A RetroPie/Emuelec/Batocera/ES-DE compatible gamelist.xml generator using metadata and images from the LaunchBox Games Database.
 
 Tam - To redo/rework แบบไทย
 
-https://ko-fi.com/rogket
+I've been there, you wanna scrape all your games but the many collectionists around the world keep the main sources to do it either busy or they simply don't have all the info you want.
 
-![showcase](images/showcase.webp)
+Tam it's really easy to customize, and you only focus on what you can see.
 
-I've been there, you wanna scrape all your games but the many collectionists around the world keep the main sources to do it busy or they simply don't have all the info you want.
-
-Well, with Tam it's really easy to customize, and you only focus on what you can see.
-
-Tam uses media from https://gamesdb.launchbox-app.com/.
+https://gamesdb.launchbox-app.com/
 
 ## Requirements
 1. [Python](https://www.python.org/downloads/)
 2. Pillow  
-Just run "pip install Pillow" from a Command Prompt when you have Python.
+Run "pip install Pillow" on a Command Prompt after you've installed Python.
+
+## Download
+You can use it anywhere that supports Python, including Windows.  
+[Release](https://github.com/ninetyralph/TamScraper/releases/download/release/TamScraper.py)
 
 ## How to Use
 1. Install [LaunchBox](https://www.launchbox-app.com/).  
